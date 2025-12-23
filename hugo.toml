@@ -1,0 +1,60 @@
+baseURL = 'https://minhkhanhblogs.com/'
+languageCode = 'vi-vn'
+title = 'NHẬT KÝ NETWORK'
+theme = 'mainroad' 
+
+[params]
+  # Mô tả dưới tiêu đề
+  description = 'Chia sẻ kinh nghiệm 4 năm "chiến" cùng Mạng máy tính & Code'
+  author = "Minh Khánh"
+  
+  # Màu đỏ đậm chủ đạo
+  highlightColor = "#c0392b"
+  
+  # Định dạng ngày tháng
+  dateformat = "02/01/2006"
+
+# --- PHẦN SỬA LỖI QUAN TRỌNG ---
+# Thay vì viết sidebar="right", ta phải tách thành một khối riêng như này:
+[params.sidebar]
+  position = "right" # Vị trí thanh bên
+  widgets = ["search", "social", "recent", "categories", "taglist"] # Các thành phần con
+
+# --- CẤU HÌNH MENU ---
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang chủ"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "nam-1-2"
+    name = "Năm 1-2: Đại cương"
+    url = "/categories/dai-cuong/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "chuyen-nganh"
+    name = "Năm 3: Chuyên ngành Mạng"
+    url = "/categories/mang-may-tinh/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "lap-trinh-mang"
+    name = "Năm 4: Lập trình Mạng"
+    url = "/categories/lap-trinh-mang/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "do-an"
+    name = "Đồ án & Dự án"
+    url = "/projects/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Về tôi"
+    url = "/about/"
+    weight = 60 

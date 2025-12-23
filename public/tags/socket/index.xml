@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socket on NHẬT KÝ NETWORK</title>
+    <link>http://localhost:54847/tags/socket/</link>
+    <description>Recent content in Socket on NHẬT KÝ NETWORK</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54847/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review môn Lập trình mạng: Từ Socket đến HTTP</title>
+      <link>http://localhost:54847/posts/bai-hoc-lap-trinh-mang/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54847/posts/bai-hoc-lap-trinh-mang/</guid>
+      <description>&lt;h2 id=&#34;1-cú-sốc-đầu-tiên-tư-duy-phân-tán&#34;&gt;1. Cú sốc đầu tiên: Tư duy phân tán&lt;/h2&gt;&#xA;&lt;p&gt;Suốt 3 năm đầu, mình chỉ quen code chạy trên một máy (Localhost). Khi vào môn &lt;strong&gt;Lập trình mạng&lt;/strong&gt;, tư duy phải thay đổi hoàn toàn:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Client gửi request, Server có nhận được không?&lt;/li&gt;&#xA;&lt;li&gt;Gói tin bị mất giữa đường thì sao?&lt;/li&gt;&#xA;&lt;li&gt;Xử lý đa luồng (Multi-thread) như thế nào để Server không bị treo?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-code-thử-socket-bằng-java&#34;&gt;2. Code thử Socket bằng Java&lt;/h2&gt;&#xA;&lt;p&gt;Đây là đoạn code đầu tiên mình chạy thành công để gửi tin nhắn giữa 2 máy:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

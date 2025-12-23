@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Engineering on NHẬT KÝ NETWORK</title>
+    <link>http://localhost:1313/tags/network-engineering/</link>
+    <description>Recent content in Network Engineering on NHẬT KÝ NETWORK</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/network-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review Ngành Mạng Máy Tính: 4 Năm học được gì ngoài bấm dây mạng?</title>
+      <link>http://localhost:1313/posts/bai-hoc-lap-trinh-mang/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bai-hoc-lap-trinh-mang/</guid>
+      <description>&lt;h2 id=&#34;1-vỡ-mộng-năm-nhất-mạng-máy-tính-không-phải-là-sửa-wifi&#34;&gt;1. Vỡ mộng năm nhất: Mạng máy tính không phải là&amp;hellip; sửa Wifi&lt;/h2&gt;&#xA;&lt;p&gt;Ngày mới vào trường, mình (và chắc nhiều bạn khác) cứ đinh ninh học Mạng ra là để đi kéo dây, sửa Wifi, cài Win dạo.&lt;/p&gt;&#xA;&lt;p&gt;Nhưng không.&#xA;Những môn đại cương và nhập môn nhanh chóng &amp;ldquo;tát&amp;rdquo; vào mặt mình bằng những khái niệm trừu tượng: &lt;strong&gt;Mô hình OSI 7 tầng&lt;/strong&gt;, &lt;strong&gt;TCP/IP&lt;/strong&gt;, &lt;strong&gt;Binary/Hex&lt;/strong&gt;, và ác mộng mang tên &lt;strong&gt;Chia IP (Subnetting)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
